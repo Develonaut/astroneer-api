@@ -20,7 +20,7 @@
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
     "atob": "^2.1.2",
-    "aws-sdk": "^2.368.0",
+    "aws-sdk": "^2.814.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.8.0",
     "babel-plugin-module-resolver": "^3.1.1",
